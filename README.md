@@ -11,6 +11,10 @@ For this project, we expect you to look at these concepts:
 - HTML Semantic Elements
 - HTML Validation
 
+![](images/../html_advanced/images/screensite.jpg)
+![](images/../html_avatar/images/../../html_advanced/images/plan.jpg)
+
+
 # Resources
 
 **Read or watch:**
