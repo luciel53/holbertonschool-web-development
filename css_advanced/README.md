@@ -8,6 +8,7 @@
 - CSS fundamentals
 - CSS advanced
 
+![](https://zupimages.net/up/23/27/ouln.jpg)
 
 ## Resources
 
@@ -59,7 +60,7 @@ This designer file will be available on `Figma` - feel free to create an account
 
 And “Duplicate to your Drafts” to have access to all design details. (if not already done)
 
-
+![](https://zupimages.net/up/23/34/zjky.png)
 
 Important notes with Figma:
 
@@ -95,6 +96,7 @@ mandatory
 
 Based on the Figma file, add the correct styling to the `header` and first `section` of the page
 
+![](https://zupimages.net/up/23/34/vyt6.jpg)
 
 **Reminders:**
 
@@ -115,6 +117,7 @@ mandatory
 
 Based on the `Figma` file, add the correct styling to the quote `section`
 
+![](https://zupimages.net/up/23/34/1ha4.jpg)
 
 **Tips:**
 
@@ -132,6 +135,7 @@ mandatory
 
 Based on the Figma file, add the correct styling to the videos list `section`
 
+![](https://zupimages.net/up/23/34/2jip.jpg)
 
 **Repo:**
 
@@ -145,6 +149,7 @@ mandatory
 
 Based on the Figma file, add the correct styling to the membership `section`
 
+![](https://zupimages.net/up/23/34/n61g.jpg)
 
 **Repo:**
 
@@ -158,6 +163,7 @@ mandatory
 
 Based on the Figma file, add the correct styling to the FAQ `section`
 
+![](https://zupimages.net/up/23/34/dus9.jpg)
 
 **Repo:**
 
@@ -171,6 +177,7 @@ mandatory
 
 Based on the Figma file, add the correct styling to the `footer`
 
+![](https://zupimages.net/up/23/34/94g1.jpg)
 
 **Repo:**
 
@@ -188,3 +195,5 @@ You just finish to implement your first web page from a designer file, Congrats!
 
 It’s time to deploy it in Github, by using Github Pages
 
+## Author:
+Lucie Leroty (l.leroty.pro@gmail.com)
