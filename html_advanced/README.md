@@ -11,8 +11,9 @@ For this project, we expect you to look at these concepts:
 - HTML Semantic Elements
 - HTML Validation
 
-![](images/../html_advanced/images/screensite.jpg)
-![](images/../html_avatar/images/../../html_advanced/images/plan.jpg)
+![](https://camo.githubusercontent.com/a095ec5cd02f6c55aaa504110a5cd1e908b9b6d8f10a0633e570ad43a5851185/68747470733a2f2f7a7570696d616765732e6e65742f75702f32332f32372f6f756c6e2e6a7067)
+
+![](https://zupimages.net/up/23/27/fzv0.jpg)
 
 
 # Resources
@@ -62,6 +63,8 @@ This designer file will be available on Figma - feel free to create an account t
 
 And “Duplicate to your Drafts” to have access to all design details.
 
+![](https://camo.githubusercontent.com/9e10a2494dccf4df6ae989d2d2f895fa795b9387c922cd43820c17abbc014be9/68747470733a2f2f7a7570696d616765732e6e65742f75702f32332f33342f7a6a6b792e706e67)
+
 Important notes with Figma:
 
 - if your computer doesn’t have missing fonts, you can find them here: source-sans-pro and Spin-Cycle-OT
@@ -77,6 +80,8 @@ Let’s start by the top: **the header**
 
 Here the wireframe of it:
 
+![](https://zupimages.net/up/23/34/zba3.jpg)
+
 - Create the HTML skeleton ('html', 'head', 'body', etc.)
 - In the body, add an 'header' tag
 - Inside this header:
@@ -87,6 +92,8 @@ Here the wireframe of it:
 mandatory
 
 Now, the banner under the `header`:
+
+![](https://zupimages.net/up/23/34/nqcv.jpg)
 
 Under the `header`, add a `main` element with inside a `section` element.
 
@@ -109,6 +116,8 @@ mandatory
 
 Under the banner, we will add the quote block:
 
+![](https://zupimages.net/up/23/34/bpgn.jpg)
+
 The quote section is inside the `main`:
 
 - Create a new section for the quote
@@ -124,6 +133,8 @@ The quote section is inside the `main`:
 mandatory
 
 Let’s now add the videos list:
+
+![](https://zupimages.net/up/23/34/u2us.jpg)
 
 New `section` with inside:
 
@@ -145,6 +156,8 @@ mandatory
 
 Membership section is similar as the videos list:
 
+![](https://zupimages.net/up/23/34/ru5k.jpg)
+
 After the videos list section, add a new`section` containing:
 
    - An heading
@@ -160,6 +173,8 @@ mandatory
 
 The FAQ section is ending the page before the footer:
 
+![](https://zupimages.net/up/23/34/94do.jpg)
+
 Add a `section` for the FAQ with inside:
 
 - A block that contains 2 “row block”
@@ -173,6 +188,8 @@ Add a `section` for the FAQ with inside:
 mandatory
 
 And… the footer!
+
+![](https://zupimages.net/up/23/34/aazo.jpg)
 
 After the last `section`, outside of the `main`, add a `footer`:
 
